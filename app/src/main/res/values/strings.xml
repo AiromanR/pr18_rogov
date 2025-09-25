@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pr18_rogov</string>
+    <string name="def_snackbar">Стандартный Snackbar</string>
+    <string name="call_action_snackbar">Snackbar с кнопкой</string>
+    <string name="custom_snackbar">Нестандартный Snackbar</string>
+    <string name="first_message">Программирование на Android</string>
+    <string name="second_message">Что-то случилось...</string>
+    <string name="second_message2">Вернуть как было</string>
+    <string name="second_message3">Все вернулось на свои места!</string>
+</resources>
